@@ -1,0 +1,24 @@
+1. Jadwal matakuliah,dosen yang hadir dan ruang kelas
+ format sms pengirim : info[spasi]tanggal[spasi]Matkul[spasi]dosen[spasi]ruang 
+ format sms penerima : jadwal mata kuliah pada 01-01-2012[spasi]matkul desain web[spasi]dosen budiman arief[spasi]ruang Labkom
+
+2. Hasil ujian nasional
+ format sms pengirim : NILAI[spasi]No ujian 
+		     : NILAI[spasi]0123456
+ format sms penerima : NO ujian[spasi]NAMA[spasi]Ket(LULUS/TIDAK LULUS)[spasi]Nilai
+		       0123456[spasi]Bagus[spasi]LULUS[spasi]80
+
+3. SMS sepak bola lengkap dari Jadwal Pertandingan, 
+   Hasil Score, Klasemen, Top Scorer Liga Itali, Inggris, Jerman, dan Spanyol !
+	format sms pengirim : score[spasi]IPL/Seri-A/La-Liga
+			      Klasemen[spasi]IPL,Seri-A,La-Liga 
+			      Top Skor[spasi]IPL,Seri-A,La-Liga 
+	format sms penerima : peringkat 		       		 	
+4.SMS Jadwal Sholat
+	format sms pengirim : INFO#KOTA ANDA#Tanggal Hari ini
+		     INFO#Jakarta#01012012 
+	format sms penerima : "Bpk/Ibu yth: Jadwal Sholat di Jakarta pada 01012012 sbb: Dzhuhur 11:45, Ashar 15:03, Maghrib 17:45, Isya 18:55 dan Shubuh 04:16.Sumber DepAg
+
+5.Prakiraan Cuaca lengkap !
+	format sms pengirim : info[spasi]cuaca 
+	format sms penerima : cuaca hari ini 
